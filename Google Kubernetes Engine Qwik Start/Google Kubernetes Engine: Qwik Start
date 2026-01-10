@@ -1,3 +1,0 @@
-curl -LO https://raw.githubusercontent.com/Jerryxr/Google-Arcrade/main/Google%20Kubernetes%20Engine%20Qwik%20Start/GSP100.sh
-chmod +x GSP100.sh
-./GSP100.sh
