@@ -1,3 +1,3 @@
-curl -LO https://github.com/Jerryxr/Google-Arcrade/blob/main/PubSub%20Qwik%20Start%20Command%20Line%20/GSP095.sh
+curl -fLO https://raw.githubusercontent.com/Jerryxr/Google-Arcrade/main/PubSub%20Qwik%20Start%20Command%20Line/GSP095.sh
 chmod +x GSP095.sh
 ./GSP095.sh
